@@ -279,13 +279,13 @@ class _profileState extends State<profile> {
           Column(
             children: [
               Image.asset(
-                'assets/Krisna4.png',
+                'assets/marco.jpng',
                 width: 140,
                 height: 140,
               ),
               SizedBox(height: 10),
               Text(
-                'Krisna Mangansihi',
+                'Marco Martin Da Silva',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 23,
@@ -318,7 +318,7 @@ class _profileState extends State<profile> {
                             )),
                         SizedBox(width: 145),
                         Text(
-                          '170563200974',
+                          '189853556234',
                           style: TextStyle(
                             color: Colors.black,
                             fontSize: 16,
@@ -354,7 +354,7 @@ class _profileState extends State<profile> {
                             )),
                         SizedBox(width: 115),
                         Text(
-                          '0895629565522',
+                          '087788452608',
                           style: TextStyle(
                             color: Colors.black,
                             fontSize: 16,
@@ -383,7 +383,7 @@ class _profileState extends State<profile> {
                         ),
                         SizedBox(width: 130),
                         Text(
-                          '30 Mei 2000',
+                          '12 Maret 2001',
                           style: TextStyle(
                             color: Colors.black,
                             fontSize: 16,
@@ -412,7 +412,7 @@ class _profileState extends State<profile> {
                         ),
                         SizedBox(width: 150),
                         Text(
-                          'Rp.149.000',
+                          'Rp.199.000',
                           style: TextStyle(
                             color: Colors.black,
                             fontSize: 16,
@@ -438,7 +438,7 @@ class _profileState extends State<profile> {
                       ),
                     ),
                     Text(
-                      'Krisna Dwiputra Mangansihi',
+                      'Marco Martin Da Silva',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 16,
@@ -470,7 +470,7 @@ class _profileState extends State<profile> {
                       ),
                     ),
                     Text(
-                      'mangensihi29@gmail.com',
+                      'marcomartin1233@gmail.com',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 16,
@@ -503,7 +503,7 @@ class _profileState extends State<profile> {
                       ),
                     ),
                     Text(
-                      'Bukit Asri Ciomas Jl.Pinus I, Desa Pagelaran,Kecamatan Ciomas,Bogor,Jawa Barat,Indonesia,16610',
+                      'Perumahan Tatya Asri Block JC 15 RT 01/RW 12 ',
                       // maxLines: 2,
                       style: TextStyle(
                         color: Colors.white,
